@@ -1,11 +1,11 @@
 # SignupForm
 
-This project is a demo of an Angular application with Forms. You can read the tutorial on [TutsPlus.com](http://code.tutsplus.com/tutorials/introduction-to-forms-in-angular-4-template-driven-forms--cms-29766) Angular has two popular technologies for building forms -- Template driven and Reactive technology. This project demostrates building a real-life signup form using both these techniques
+Project ini adalah demo aplikasi Angular dengan Form. Anda dapat membaca tutorialnya di[Blog Mata Panda Crew](https://matapanda-crew.blogspot.com/2019/08/pengenalan-form-di-angular-4-template.html) Angular memiliki dua teknologi populer untuk building forms - Template driven dan Reactive technology. Project ini mendemostrasikan building a real-life signup form menggunakan kedua teknik ini
 
 ## Choosing the Right Branch
 
-Apart from the master branch, there are two branches. Make sure you are right branch and clone the repo or download the zip file. 
+Terlepas dari master branch, ada dua branches. Pastikan Anda memilih repo yang benar dan clone repo atau unduh file zip. 
 
 ## Running the Development Server
 
-Run `npm install` to install all the packages. Next, try `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Jalankan `npm install` untuk menginstal semua paket. Selanjutnya, coba `ng servis` untuk server dev. Arahkan ke `http: // localhost: 4200 /`. Aplikasi akan secara otomatis memuat ulang jika Anda mengubah salah satu source files.
